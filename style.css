@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(97, 148, 193);
+    text-align: center;
+    place-items: center;
+    margin: 50px;
+    display: grid;
+}
+
+#img_redonda{
+    height: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
