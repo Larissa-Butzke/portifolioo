@@ -2,13 +2,33 @@ body{
     background-color: rgb(97, 148, 193);
     text-align: center;
     place-items: center;
-    margin: 50px;
-    display: grid;
 }
 
 #img_redonda{
-    height: 150px;
-    height: 150px;
+    height: 200px;
+    height: 200px;
     border-radius: 50%;
+}
+
+#html{
+    height: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#css{
+    height: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#js{
+    height: 100px;
+    height: 100px;
+}
+
+#react{
+    height: 90px;
+    height: 90px;
 }
 
